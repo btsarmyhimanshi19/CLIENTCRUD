@@ -1,8 +1,8 @@
 import axios from 'axios';
 
-const URL = 'http://localhost:8000';
+// const URL = 'http://localhost:8000';
 
-// const URL ='https://crud-react-backend1.herokuapp.com';
+const URL ='https://crud-react-backend1.herokuapp.com';
 
 export const addUser = async(data) =>{
         try{
